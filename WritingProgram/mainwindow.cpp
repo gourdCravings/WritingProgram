@@ -11,12 +11,20 @@ MainWindow::MainWindow(QWidget *parent)
 
     // create default editor window
     EditorForm *editor = new EditorForm();
-    QVBoxLayout *tabLayout = new QVBoxLayout();
     tabLayout->addWidget(editor);
     ui->tab->setLayout(tabLayout);
+
+    // connect actions
+    connect(ui->notepadAction, &QAction::triggered,
+            this, &MainWindow::openNotepad);
 }
 
 MainWindow::~MainWindow()
 {
     delete ui;
+}
+
+void MainWindow::openNotepad()
+{
+    ui->centralwidget->layout()->addWidget(notepad);
 }

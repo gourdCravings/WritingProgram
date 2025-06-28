@@ -2,6 +2,9 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QTextEdit>
+#include <QVBoxLayout>
+#include "notepad.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -19,5 +22,10 @@ public:
 
 private:
     Ui::MainWindow *ui;
+    Notepad *notepad = new Notepad();
+    QVBoxLayout *tabLayout = new QVBoxLayout();
+
+private slots:
+    void openNotepad();
 };
 #endif // MAINWINDOW_H

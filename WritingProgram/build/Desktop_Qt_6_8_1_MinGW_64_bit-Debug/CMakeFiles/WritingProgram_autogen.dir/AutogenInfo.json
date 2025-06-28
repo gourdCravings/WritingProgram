@@ -236,9 +236,33 @@
 			null
 		],
 		[
+			"C:/Users/12074/Documents/programs/WritingProgram/fontselector.h",
+			"MU",
+			"EWIEGA46WW/moc_fontselector.cpp",
+			null
+		],
+		[
 			"C:/Users/12074/Documents/programs/WritingProgram/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/12074/Documents/programs/WritingProgram/notepad.h",
+			"MU",
+			"EWIEGA46WW/moc_notepad.cpp",
+			null
+		],
+		[
+			"C:/Users/12074/Documents/programs/WritingProgram/spacingdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_spacingdialog.cpp",
+			null
+		],
+		[
+			"C:/Users/12074/Documents/programs/WritingProgram/texteditor.h",
+			"MU",
+			"EWIEGA46WW/moc_texteditor.cpp",
 			null
 		]
 	],
@@ -268,6 +292,7 @@
 	],
 	"MOC_INCLUDES" : 
 	[
+		"C:/Users/12074/Documents/programs/WritingProgram",
 		"C:/Qt/6.8.1/mingw_64/include/QtCore",
 		"C:/Qt/6.8.1/mingw_64/include",
 		"C:/Qt/6.8.1/mingw_64/mkspecs/win32-g++",
@@ -318,12 +343,32 @@
 			null
 		],
 		[
+			"C:/Users/12074/Documents/programs/WritingProgram/fontselector.cpp",
+			"MU",
+			null
+		],
+		[
 			"C:/Users/12074/Documents/programs/WritingProgram/main.cpp",
 			"MU",
 			null
 		],
 		[
 			"C:/Users/12074/Documents/programs/WritingProgram/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/12074/Documents/programs/WritingProgram/notepad.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/12074/Documents/programs/WritingProgram/spacingdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/12074/Documents/programs/WritingProgram/texteditor.cpp",
 			"MU",
 			null
 		]

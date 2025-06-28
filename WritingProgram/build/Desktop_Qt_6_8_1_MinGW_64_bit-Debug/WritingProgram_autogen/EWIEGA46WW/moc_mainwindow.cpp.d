@@ -1,5 +1,6 @@
 C:/Users/12074/Documents/programs/WritingProgram/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/WritingProgram_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/12074/Documents/programs/WritingProgram/mainwindow.h \
   C:/Users/12074/Documents/programs/WritingProgram/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/WritingProgram_autogen/moc_predefs.h \
+  C:/Qt/6.8.1/mingw_64/include/QtCore/QObject \
   C:/Qt/6.8.1/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/q20iterator.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/q20memory.h \
@@ -114,6 +115,7 @@ C:/Users/12074/Documents/programs/WritingProgram/build/Desktop_Qt_6_8_1_MinGW_64
   C:/Qt/6.8.1/mingw_64/include/QtCore/qtversionchecks.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qtypeinfo.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.8.1/mingw_64/include/QtCore/qurl.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qutf8stringview.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qvarlengtharray.h \
@@ -133,12 +135,17 @@ C:/Users/12074/Documents/programs/WritingProgram/build/Desktop_Qt_6_8_1_MinGW_64
   C:/Qt/6.8.1/mingw_64/include/QtGui/qkeysequence.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qpaintdevice.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qpalette.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/qpen.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qpixelformat.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qpixmap.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qpolygon.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qregion.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qrgb.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/qtextcursor.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/qtextdocument.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/qtextformat.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/qtextoption.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qtgui-config.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qtguiexports.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qtguiglobal.h \
@@ -146,9 +153,19 @@ C:/Users/12074/Documents/programs/WritingProgram/build/Desktop_Qt_6_8_1_MinGW_64
   C:/Qt/6.8.1/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/QMainWindow \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/QTextEdit \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/QVBoxLayout \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qabstractscrollarea.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qboxlayout.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qframe.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qgridlayout.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qlayout.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qlayoutitem.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/qmainwindow.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/qtabwidget.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qtextedit.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -358,4 +375,5 @@ C:/Users/12074/Documents/programs/WritingProgram/build/Desktop_Qt_6_8_1_MinGW_64
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/sys/types.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
+  C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/12074/Documents/programs/WritingProgram/notepad.h

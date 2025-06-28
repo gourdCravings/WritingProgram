@@ -13,117 +13,347 @@
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="QTextEdit" name="textEdit">
-   <property name="geometry">
-    <rect>
-     <x>30</x>
-     <y>170</y>
-     <width>291</width>
-     <height>241</height>
-    </rect>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QFrame" name="toolFrame">
+     <property name="frameShape">
+      <enum>QFrame::Shape::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Shadow::Raised</enum>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_5">
+      <item>
+       <widget class="QWidget" name="fontWidget" native="true">
+        <layout class="QHBoxLayout" name="horizontalLayout">
+         <item>
+          <widget class="QToolButton" name="styleButton">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="popupMode">
+            <enum>QToolButton::ToolButtonPopupMode::InstantPopup</enum>
+           </property>
+           <property name="toolButtonStyle">
+            <enum>Qt::ToolButtonStyle::ToolButtonTextOnly</enum>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QFontComboBox" name="fontCombo">
+           <property name="editable">
+            <bool>false</bool>
+           </property>
+           <property name="currentIndex">
+            <number>172</number>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QDoubleSpinBox" name="textSpin"/>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QWidget" name="formatWidget" native="true">
+        <layout class="QHBoxLayout" name="horizontalLayout_2">
+         <item>
+          <widget class="QToolButton" name="formatButton">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset theme="QIcon::ThemeIcon::FormatTextBold"/>
+           </property>
+           <property name="popupMode">
+            <enum>QToolButton::ToolButtonPopupMode::InstantPopup</enum>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="colorButton">
+           <property name="font">
+            <font>
+             <family>Segoe UI</family>
+            </font>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset theme="start-here"/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="highlightButton">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset theme="QIcon::ThemeIcon::WeatherClear"/>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QWidget" name="paraWidget" native="true">
+        <layout class="QHBoxLayout" name="horizontalLayout_4">
+         <item>
+          <widget class="QToolButton" name="alignButton">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset theme="QIcon::ThemeIcon::FormatJustifyLeft"/>
+           </property>
+           <property name="popupMode">
+            <enum>QToolButton::ToolButtonPopupMode::InstantPopup</enum>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QToolButton" name="bulletButton">
+           <property name="font">
+            <font>
+             <family>Wingdings</family>
+            </font>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset theme="user-bookmarks"/>
+           </property>
+           <property name="popupMode">
+            <enum>QToolButton::ToolButtonPopupMode::InstantPopup</enum>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="spacingButton">
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset theme="QIcon::ThemeIcon::ViewFullscreen"/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QWidget" name="indentWidget" native="true">
+           <layout class="QHBoxLayout" name="horizontalLayout_3">
+            <item>
+             <widget class="QPushButton" name="plusIndentButton">
+              <property name="text">
+               <string/>
+              </property>
+              <property name="icon">
+               <iconset theme="QIcon::ThemeIcon::GoNext"/>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="minusIndentButton">
+              <property name="text">
+               <string/>
+              </property>
+              <property name="icon">
+               <iconset theme="QIcon::ThemeIcon::GoPrevious"/>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="commentButton">
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset theme="emblem-mail"/>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="TextEditor" name="textEdit"/>
+   </item>
+  </layout>
+  <action name="boldAction">
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::FormatTextBold"/>
    </property>
-  </widget>
-  <widget class="QFrame" name="toolFrame">
-   <property name="geometry">
-    <rect>
-     <x>10</x>
-     <y>50</y>
-     <width>631</width>
-     <height>80</height>
-    </rect>
+   <property name="text">
+    <string>bold</string>
    </property>
-   <property name="frameShape">
-    <enum>QFrame::Shape::StyledPanel</enum>
+   <property name="toolTip">
+    <string>bold</string>
    </property>
-   <property name="frameShadow">
-    <enum>QFrame::Shadow::Raised</enum>
+   <property name="shortcut">
+    <string>Ctrl+B</string>
    </property>
-   <widget class="QFontComboBox" name="fontCombo">
-    <property name="geometry">
-     <rect>
-      <x>10</x>
-      <y>30</y>
-      <width>255</width>
-      <height>28</height>
-     </rect>
-    </property>
-    <property name="editable">
-     <bool>false</bool>
-    </property>
-    <property name="currentIndex">
-     <number>172</number>
-    </property>
-   </widget>
-   <widget class="QDoubleSpinBox" name="textSpin">
-    <property name="geometry">
-     <rect>
-      <x>320</x>
-      <y>30</y>
-      <width>44</width>
-      <height>29</height>
-     </rect>
-    </property>
-   </widget>
-   <widget class="QFrame" name="formatFrame">
-    <property name="geometry">
-     <rect>
-      <x>400</x>
-      <y>20</y>
-      <width>177</width>
-      <height>51</height>
-     </rect>
-    </property>
-    <property name="frameShape">
-     <enum>QFrame::Shape::StyledPanel</enum>
-    </property>
-    <property name="frameShadow">
-     <enum>QFrame::Shadow::Raised</enum>
-    </property>
-    <layout class="QHBoxLayout" name="horizontalLayout">
-     <item>
-      <widget class="QPushButton" name="boldButton">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="icon">
-        <iconset theme="QIcon::ThemeIcon::FormatTextBold"/>
-       </property>
-      </widget>
-     </item>
-     <item>
-      <widget class="QPushButton" name="italicsButton">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="icon">
-        <iconset theme="QIcon::ThemeIcon::FormatTextItalic"/>
-       </property>
-      </widget>
-     </item>
-     <item>
-      <widget class="QPushButton" name="underlineButton">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="icon">
-        <iconset theme="QIcon::ThemeIcon::FormatTextUnderline"/>
-       </property>
-      </widget>
-     </item>
-     <item>
-      <widget class="QPushButton" name="strikeButton">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="icon">
-        <iconset theme="QIcon::ThemeIcon::FormatTextStrikethrough"/>
-       </property>
-      </widget>
-     </item>
-    </layout>
-   </widget>
-  </widget>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="italicsAction">
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::FormatTextItalic"/>
+   </property>
+   <property name="text">
+    <string>italics</string>
+   </property>
+   <property name="toolTip">
+    <string>italics</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+I</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="underlineAction">
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::FormatTextUnderline"/>
+   </property>
+   <property name="text">
+    <string>underline</string>
+   </property>
+   <property name="toolTip">
+    <string>underline</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+U</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="strikeAction">
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::FormatTextStrikethrough"/>
+   </property>
+   <property name="text">
+    <string>strikethrough</string>
+   </property>
+   <property name="toolTip">
+    <string>strikethrough</string>
+   </property>
+   <property name="shortcut">
+    <string>Alt+Shift+5</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="alignLeftAction">
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::FormatJustifyLeft"/>
+   </property>
+   <property name="text">
+    <string>align left</string>
+   </property>
+   <property name="toolTip">
+    <string>align left</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+L, Ctrl+L</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="alignCenterAction">
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::FormatJustifyCenter"/>
+   </property>
+   <property name="text">
+    <string>align center</string>
+   </property>
+   <property name="toolTip">
+    <string>align center</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+C</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="alignJustifyAction">
+   <property name="text">
+    <string>justify text</string>
+   </property>
+   <property name="toolTip">
+    <string>justify text</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+J</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="alignRightAction">
+   <property name="icon">
+    <iconset theme="QIcon::ThemeIcon::FormatJustifyRight"/>
+   </property>
+   <property name="text">
+    <string>align right</string>
+   </property>
+   <property name="toolTip">
+    <string>align right</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+R</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="normalAction">
+   <property name="text">
+    <string>Normal Text</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="titleAction">
+   <property name="text">
+    <string>Title</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="headingAction">
+   <property name="text">
+    <string>Heading</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
  </widget>
+ <customwidgets>
+  <customwidget>
+   <class>TextEditor</class>
+   <extends>QTextEdit</extends>
+   <header>texteditor.h</header>
+  </customwidget>
+ </customwidgets>
  <resources/>
  <connections/>
 </ui>

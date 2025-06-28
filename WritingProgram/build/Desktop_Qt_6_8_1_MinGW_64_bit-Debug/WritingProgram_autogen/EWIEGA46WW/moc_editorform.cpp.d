@@ -114,12 +114,14 @@ C:/Users/12074/Documents/programs/WritingProgram/build/Desktop_Qt_6_8_1_MinGW_64
   C:/Qt/6.8.1/mingw_64/include/QtCore/qtversionchecks.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qtypeinfo.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qtypes.h \
+  C:/Qt/6.8.1/mingw_64/include/QtCore/qurl.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qutf8stringview.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qxptype_traits.h \
   C:/Qt/6.8.1/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/QAction \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qaction.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qbitmap.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qbrush.h \
@@ -133,20 +135,34 @@ C:/Users/12074/Documents/programs/WritingProgram/build/Desktop_Qt_6_8_1_MinGW_64
   C:/Qt/6.8.1/mingw_64/include/QtGui/qkeysequence.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qpaintdevice.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qpalette.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/qpen.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qpixelformat.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qpixmap.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qpolygon.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qregion.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qrgb.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/qtextcursor.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/qtextdocument.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/qtextformat.h \
+  C:/Qt/6.8.1/mingw_64/include/QtGui/qtextoption.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qtgui-config.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qtguiexports.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qtguiglobal.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.8.1/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/QMenu \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/QTextEdit \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/QToolButton \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qabstractbutton.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qabstractscrollarea.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qframe.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qmenu.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/qsizepolicy.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qtextedit.h \
+  C:/Qt/6.8.1/mingw_64/include/QtWidgets/qtoolbutton.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.8.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h \

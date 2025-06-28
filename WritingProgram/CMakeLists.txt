@@ -12,7 +12,13 @@ qt_add_executable(WritingProgram
     mainwindow.h
     mainwindow.ui
     editorform.h editorform.cpp editorform.ui
+    texteditor.h texteditor.cpp
+    fontselector.h fontselector.cpp
+    spacingdialog.h spacingdialog.cpp spacingdialog.ui
+    notepad.h notepad.cpp
 )
+
+target_include_directories(WritingProgram PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})
 
 target_link_libraries(WritingProgram
     PRIVATE

@@ -1,0 +1,13 @@
+C:\Users\12074\Documents\programs\SimpleWritingProgram\bin\Debug\SimpleWritingProgram.exe.config
+C:\Users\12074\Documents\programs\SimpleWritingProgram\bin\Debug\SimpleWritingProgram.exe
+C:\Users\12074\Documents\programs\SimpleWritingProgram\bin\Debug\SimpleWritingProgram.pdb
+C:\Users\12074\Documents\programs\SimpleWritingProgram\obj\Debug\SimpleWritingProgram.csproj.AssemblyReference.cache
+C:\Users\12074\Documents\programs\SimpleWritingProgram\obj\Debug\SimpleWritingProgram.MainForm.resources
+C:\Users\12074\Documents\programs\SimpleWritingProgram\obj\Debug\SimpleWritingProgram.NotesControl.resources
+C:\Users\12074\Documents\programs\SimpleWritingProgram\obj\Debug\SimpleWritingProgram.Properties.Resources.resources
+C:\Users\12074\Documents\programs\SimpleWritingProgram\obj\Debug\SimpleWritingProgram.ChapterControl.resources
+C:\Users\12074\Documents\programs\SimpleWritingProgram\obj\Debug\SimpleWritingProgram.csproj.GenerateResource.cache
+C:\Users\12074\Documents\programs\SimpleWritingProgram\obj\Debug\SimpleWritingProgram.csproj.CoreCompileInputs.cache
+C:\Users\12074\Documents\programs\SimpleWritingProgram\obj\Debug\SimpleWritingProgram.exe
+C:\Users\12074\Documents\programs\SimpleWritingProgram\obj\Debug\SimpleWritingProgram.pdb
+C:\Users\12074\Documents\programs\SimpleWritingProgram\obj\Debug\SimpleWritingProgram.exe.config

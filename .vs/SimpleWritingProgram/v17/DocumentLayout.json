@@ -3,52 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\chaptertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chaptertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\chaptercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chaptercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\chaptercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chaptercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\chaptercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chaptercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\chaptertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chaptertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\chapternotescontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chapternotescontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\chapternotespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chapternotespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\chapternotescontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chapternotescontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\chapternotescontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chapternotescontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\chapternotespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\chapternotespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chapternotespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\notescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\notescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:notescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\chaptertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chaptertextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\chaptercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chaptercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\notescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\notescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:notescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|c:\\users\\12074\\documents\\programs\\simplewritingprogram\\chaptercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{959BBE11-DEA7-4EE1-843C-7D2643D6D373}|SimpleWritingProgram.csproj|solutionrelative:chaptercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +74,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-10-06T19:31:58.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChapterControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterControl.cs",
+              "RelativeDocumentMoniker": "ChapterControl.cs",
+              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterControl.cs [Design]",
+              "RelativeToolTip": "ChapterControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:27:30.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChapterTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterTextBox.cs",
+              "RelativeDocumentMoniker": "ChapterTextBox.cs",
+              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterTextBox.cs",
+              "RelativeToolTip": "ChapterTextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:20:32.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ChapterControl.cs",
+              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterControl.cs",
+              "RelativeDocumentMoniker": "ChapterControl.cs",
+              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterControl.cs",
+              "RelativeToolTip": "ChapterControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:02:39.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChapterControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterControl.Designer.cs",
+              "RelativeDocumentMoniker": "ChapterControl.Designer.cs",
+              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterControl.Designer.cs",
+              "RelativeToolTip": "ChapterControl.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAIAwwGgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:50:27.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChapterTextBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterTextBox.cs",
+              "RelativeDocumentMoniker": "ChapterTextBox.cs",
+              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterTextBox.cs [Design]",
+              "RelativeToolTip": "ChapterTextBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:12:38.463Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
@@ -75,19 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ChapterNotesContainer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterNotesContainer.cs",
-              "RelativeDocumentMoniker": "ChapterNotesContainer.cs",
-              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterNotesContainer.cs [Design]",
-              "RelativeToolTip": "ChapterNotesContainer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T16:57:48.396Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ChapterNotesPanel.cs",
               "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterNotesPanel.cs",
               "RelativeDocumentMoniker": "ChapterNotesPanel.cs",
@@ -100,7 +180,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\Global.cs",
+              "RelativeDocumentMoniker": "Global.cs",
+              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\Global.cs",
+              "RelativeToolTip": "Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T20:10:33.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:06:29.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChapterNotesContainer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterNotesContainer.cs",
+              "RelativeDocumentMoniker": "ChapterNotesContainer.cs",
+              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterNotesContainer.cs [Design]",
+              "RelativeToolTip": "ChapterNotesContainer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:57:48.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
@@ -108,12 +222,11 @@
               "RelativeToolTip": "MainForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:11:09.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T12:11:09.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "ChapterNotesContainer.cs",
               "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterNotesContainer.cs",
               "RelativeDocumentMoniker": "ChapterNotesContainer.cs",
@@ -121,24 +234,11 @@
               "RelativeToolTip": "ChapterNotesContainer.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:52:29.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T12:52:29.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\MainForm.cs [Design]",
-              "RelativeToolTip": "MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:06:29.626Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ChapterNotesPanel.cs [Design]",
               "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterNotesPanel.cs",
               "RelativeDocumentMoniker": "ChapterNotesPanel.cs",
@@ -150,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "NotesControl.cs",
               "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\NotesControl.cs",
               "RelativeDocumentMoniker": "NotesControl.cs",
@@ -158,58 +258,18 @@
               "RelativeToolTip": "NotesControl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T16:11:18.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T16:11:18.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ChapterTextBox.cs",
-              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterTextBox.cs",
-              "RelativeDocumentMoniker": "ChapterTextBox.cs",
-              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterTextBox.cs",
-              "RelativeToolTip": "ChapterTextBox.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T17:20:32.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ChapterControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterControl.cs",
-              "RelativeDocumentMoniker": "ChapterControl.cs",
-              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterControl.cs [Design]",
-              "RelativeToolTip": "ChapterControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:27:30.608Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "NotesControl.cs [Design]",
               "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\NotesControl.cs",
               "RelativeDocumentMoniker": "NotesControl.cs",
               "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\NotesControl.cs [Design]",
               "RelativeToolTip": "NotesControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T15:57:21.263Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ChapterControl.cs",
-              "DocumentMoniker": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterControl.cs",
-              "RelativeDocumentMoniker": "ChapterControl.cs",
-              "ToolTip": "C:\\Users\\12074\\Documents\\programs\\SimpleWritingProgram\\ChapterControl.cs",
-              "RelativeToolTip": "ChapterControl.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T13:02:39.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T15:57:21.263Z"
             }
           ]
         }
